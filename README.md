@@ -1,3 +1,4 @@
+# Audio-filter
 Takes in .wav files and performs a number of functions on them. Can change playback speed, high pass or low pass filtering or audio mixing. Contains sample audio files. 
 Sample input:
 
